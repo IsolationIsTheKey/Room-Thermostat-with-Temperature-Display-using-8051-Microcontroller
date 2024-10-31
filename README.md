@@ -1,3 +1,5 @@
+![Preview](uCpreview.jpeg)
+
 University: Technical University of Cluj-Napoca  
 Course: Microcontrollers  
 Author: Zabunov Veaceslav Daniil  
